@@ -1,5 +1,9 @@
-name: HUSO
-version: 1.0
-main: Main
-author: LUKAS ILOVEKOHL
+name: LvckyCPS
+version: 1.2
+main: net.lvckyworld.cps.main.Main
+author: LUKAS ILOVEKOHL & IVEN LVCKYAPI
 commands:
+  cps-toggle:
+    description: Schaltet die Anzeige der Clicks um.
+  antiac:
+  lang:

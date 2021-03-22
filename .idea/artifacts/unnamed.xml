@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="unnamed">
-    <output-path>$PROJECT_DIR$/../Server1.8.8/plugins</output-path>
+    <output-path>$PROJECT_DIR$/out</output-path>
     <root id="archive" name="unnamed.jar">
       <element id="module-output" name="TESTCPS" />
       <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
