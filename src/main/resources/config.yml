@@ -1,0 +1,13 @@
+# Clicks-Counter
+# Config-Files
+Descriptions:
+  desc1: "name: LvckyCPS"
+  desc2: "version: 1.2"
+  desc3: "main: net.lvckyworld.cps.main.Main"
+  desc4: "author: LUKAS | ILOVEKOHL & IVEN | LVCKYAPI"
+  desc5:  "Languages german = de & english = en"
+Main:
+  Language: "de"
+  Prefix: '§7[§3CPS§7]'
+Config:
+  AntiAC: false
