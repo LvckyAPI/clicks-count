@@ -73,6 +73,7 @@ public class AntiACToggleCommand implements CommandExecutor {
                         p.sendMessage(toggleTrue);
                     }
                     PluginUtil.reload(Bukkit.getPluginManager().getPlugin("LvckyCPS"));
+                    System.out.println("OP");
 
                 } else {
                     p.sendMessage(argError);

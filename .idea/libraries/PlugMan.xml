@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlugMan">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../API'S/PlugMan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
