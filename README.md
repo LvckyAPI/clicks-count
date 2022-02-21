@@ -20,4 +20,4 @@ Should you find errors, you can report them at any time. If you can even fix the
 # Attention | Achtung
 ### [PlugMan](https://dev.bukkit.org/projects/plugman) wird auf dem Server Benötigt. The plugin [PlugMan](https://dev.bukkit.org/projects/plugman) is required on the Server!
 
-[Click here to download current-version as jar](https://downloadserver.lvckyworld.net/public/click-count-release--1.2.jar)
+[Click here to download current-version as jar](https://github.com/LvckyAPI/Clicks-Anzahl/releases/download/1.2/click-count-release--1.2.jar)
