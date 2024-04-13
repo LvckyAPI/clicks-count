@@ -1,4 +1,4 @@
-# Click-Anzahl
+# Click-Counter
 
 This extension ensures that you can keep an eye on the number of clicks by the players.
 With the AntiAC module you can prevent the use of autoclickers!
